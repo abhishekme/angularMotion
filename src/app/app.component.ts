@@ -100,7 +100,7 @@ export class AppComponent implements AfterViewInit {
     window.setTimeout(() => this.draw(canvas), 10000/80);
   }
 
-  changeposition(){
+  changeposition(){    
     //Do the needful
   }
 
